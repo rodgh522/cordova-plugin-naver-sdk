@@ -1,0 +1,59 @@
+{
+  "_from": "cordova-plugin-naver-sdk",
+  "_id": "cordova-plugin-naver-sdk@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-CpkB49+mZnWHEEAztCsq8nucpIZomTGIefbJrBfJSe1PCZu69K9GoQa3iRpOAhNN73L+Bwnwfy8JhQA1H7ETWQ==",
+  "_location": "/cordova-plugin-naver-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-naver-sdk",
+    "name": "cordova-plugin-naver-sdk",
+    "escapedName": "cordova-plugin-naver-sdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-naver-sdk/-/cordova-plugin-naver-sdk-1.1.0.tgz",
+  "_shasum": "ce8ed08699756f7c32218e96255fa2e22b7c4b85",
+  "_spec": "cordova-plugin-naver-sdk",
+  "_where": "D:\\ionic\\demo3",
+  "author": {
+    "name": "raccoondev85"
+  },
+  "bugs": {
+    "url": "https://github.com/raccoondev85/cordova-plugin-naver-sdk/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-naver-sdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Naver Cordova SDK Plugin",
+  "homepage": "https://github.com/raccoondev85/cordova-plugin-naver-sdk#readme",
+  "keywords": [
+    "naver",
+    "login",
+    "naver-sdk",
+    "naveraccount",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-naver-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raccoondev85/cordova-plugin-naver-sdk.git"
+  },
+  "version": "1.1.0"
+}
